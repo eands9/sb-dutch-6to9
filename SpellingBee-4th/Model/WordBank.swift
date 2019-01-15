@@ -12,10 +12,14 @@ class WordBank{
     var list = [Word]()
     
     init(){
-        list.append(Word(word:"inane", sentence:""))
-        list.append(Word(word:"relevant", sentence:""))
-        list.append(Word(word:"impetuous", sentence:""))
-        list.append(Word(word:"ambivalent", sentence:""))
-        list.append(Word(word:"dejected", sentence:""))
+        list.append(Word(word:"cockatoo", sentence:""))
+        list.append(Word(word:"keelhaul", sentence:""))
+        list.append(Word(word:"harpoon", sentence:""))
+        list.append(Word(word:"furlough", sentence:""))
+        list.append(Word(word:"bowery", sentence:""))
+        list.append(Word(word:"easel", sentence:""))
+        list.append(Word(word:"holster", sentence:""))
+        list.append(Word(word:"freebooter", sentence:""))
+        list.append(Word(word:"waffle", sentence:""))
     }
 }
