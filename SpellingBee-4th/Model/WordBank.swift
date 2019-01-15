@@ -12,15 +12,15 @@ class WordBank{
     var list = [Word]()
     
     init(){
-        list.append(Word(word:"trawl", sentence:""))
-        list.append(Word(word:"uproar", sentence:""))
-        list.append(Word(word:"beleaguer", sentence:""))
-        list.append(Word(word:"cruller", sentence:""))
-        list.append(Word(word:"yacht", sentence:""))
-        list.append(Word(word:"wiseacre", sentence:""))
-        list.append(Word(word:"brackish", sentence:""))
-        list.append(Word(word:"decoy", sentence:""))
-        list.append(Word(word:"caboose", sentence:""))
-        list.append(Word(word:"buckwheat", sentence:""))
+        list.append(Word(word:"walrus", sentence:""))
+        list.append(Word(word:"howitzer", sentence:""))
+        list.append(Word(word:"crimp", sentence:""))
+        list.append(Word(word:"bluff", sentence:""))
+        list.append(Word(word:"stipple", sentence:""))
+        list.append(Word(word:"floss", sentence:""))
+        list.append(Word(word:"cruiser", sentence:""))
+        list.append(Word(word:"hustle", sentence:""))
+        list.append(Word(word:"klompen", sentence:""))
+        list.append(Word(word:"polder", sentence:""))
     }
 }
