@@ -12,15 +12,15 @@ class WordBank{
     var list = [Word]()
     
     init(){
-        list.append(Word(word:"handsome", sentence:""))
-        list.append(Word(word:"foist", sentence:""))
-        list.append(Word(word:"staple", sentence:""))
-        list.append(Word(word:"gulden", sentence:""))
-        list.append(Word(word:"mart", sentence:""))
-        list.append(Word(word:"screen", sentence:""))
-        list.append(Word(word:"guilder", sentence:""))
-        list.append(Word(word:"etch", sentence:""))
-        list.append(Word(word:"netherlander", sentence:""))
-        list.append(Word(word:"dune", sentence:""))
+        list.append(Word(word:"croon", sentence:""))
+        list.append(Word(word:"ticket", sentence:""))
+        list.append(Word(word:"buckwagon", sentence:""))
+        list.append(Word(word:"hock", sentence:""))
+        list.append(Word(word:"boodle", sentence:""))
+        list.append(Word(word:"guy", sentence:""))
+        list.append(Word(word:"daffodil", sentence:""))
+        list.append(Word(word:"loiter", sentence:""))
+        list.append(Word(word:"potash", sentence:""))
+        list.append(Word(word:"scow", sentence:""))
     }
 }
